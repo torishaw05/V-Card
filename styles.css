@@ -1,0 +1,19 @@
+.v_card {
+  color: rgba(158, 189, 198, 0.7);
+  background-color: black;
+  border: 6px solid rgba(158, 189, 198, 0.7);
+  border-radius: 20px;
+}
+
+img {
+  border: 8px solid black;
+  border-radius: 400px;
+}
+
+p:hover {
+  color: white;
+}
+body {
+  background-color:rgba(158, 189, 198, 0.7);
+
+}
